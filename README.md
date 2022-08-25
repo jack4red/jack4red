@@ -1,4 +1,4 @@
-### Hi there 👋
+Fairy tales are more than true, not because they tell us that dragons exist, but because they tell us that dragons can be beaten.
 
 <!--
 **jack4red/jack4red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
